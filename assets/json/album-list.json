@@ -1,0 +1,49 @@
+{
+  "albumModelList": [
+    {
+      "imagePath": "assets/images/Eye-of-the-Storm.png",
+      "name": "Eye of the Storm",
+      "years": "2019"
+    },
+    {
+      "imagePath": "assets/images/Ambitions.png",
+      "name": "Ambition",
+      "years": "2017"
+    },
+    {
+      "imagePath": "assets/images/35xxxv.jpeg",
+      "name": "35xxxv",
+      "years": "2015"
+    },
+    {
+      "imagePath": "assets/images/Jinsei-x-Boku.jpeg",
+      "name": "Jinsei x Boku",
+      "years": "2013"
+    },
+    {
+      "imagePath": "assets/images/Zankyo-Reference.jpeg",
+      "name": "Zankyo Reference",
+      "years": "2011"
+    },
+    {
+      "imagePath": "assets/images/Niche-Syndrome.png",
+      "name": "Niche Syndrome",
+      "years": "2010"
+    },
+    {
+      "imagePath":"assets/images/Kanjou-Effect.jpeg",
+      "name": "Kanjou Effect",
+      "years": "2008"
+    },
+    {
+      "imagePath":"assets/images/Beam-of-Light.jpeg",
+      "name": "Beam of Light",
+      "years": "2008"
+    },
+    {
+      "imagePath":"assets/images/Zeitakubyou.jpeg",
+      "name": "Zeitakubyou",
+      "years": "2007"
+    }
+  ]
+}
